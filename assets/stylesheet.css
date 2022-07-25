@@ -1,0 +1,52 @@
+* {
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Header & nav styles*/
+header {
+    padding: 35px 50px;
+    background-image: url("../assets/images/header\ background.jpeg");
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 55px;
+    color: white;
+    margin: 0;
+    display: inline;
+}
+header h2 {
+    font-size: 30px;
+    color: white;
+    margin: 0;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+}
+
+header nav {
+    float: right;
+    margin: 7px 0;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li a {
+    margin: 0 30px;
+    font-size: 20px;
+    display: inline;
+}
+
+/* About me setion*?
+
